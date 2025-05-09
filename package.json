@@ -13,5 +13,8 @@
     "Boolean"
   ],
   "author": "Davide Giuseppe Ciliento",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
 }
