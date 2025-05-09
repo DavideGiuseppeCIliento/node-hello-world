@@ -1,0 +1,17 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "Test per Boolean",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "watch": "node --watch main.js"
+  },
+  "keywords": [
+    "test",
+    "Boolean"
+  ],
+  "author": "Davide Giuseppe Ciliento",
+  "license": "ISC"
+}
