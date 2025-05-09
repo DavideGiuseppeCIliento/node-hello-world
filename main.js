@@ -1,5 +1,10 @@
 // # CIAO
+const stampaStringa = require("./function");
 
-const frase = process.argv[2];
+const main = () => {
+  const frase = process.argv[2];
+  stampaStringa(frase);
+  return;
+};
 
-frase ? console.log(frase) : console.log("Non hai inserito il testo");
+main();
